@@ -1,2 +1,1 @@
-:pinched_fingers:
-
+print("🇱🇹"
