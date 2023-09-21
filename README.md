@@ -1,2 +1,2 @@
-🤌
+:pinched_fingers:
 
